@@ -2916,7 +2916,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Imported Parts:10.4x15mm rocker switch"
 			(at 110.49 24.13 0)
 			(hide yes)
 			(show_name no)
